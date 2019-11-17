@@ -1,6 +1,5 @@
 # Task
-
-<p><strong>Task</strong> <br>
+<p>
 Read two integers from STDIN and print three lines where: </p>
 
 <ol>
