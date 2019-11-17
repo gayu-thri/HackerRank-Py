@@ -1,1 +1,1 @@
-# HackerRank-Py
+# HackerRank_Solutions
