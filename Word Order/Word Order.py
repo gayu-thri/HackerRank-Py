@@ -1,7 +1,7 @@
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 n = int(input())
 l = list()
-out = []
+out = list()
 count = 0 
 d = dict()
 for i in range(n):
